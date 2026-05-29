@@ -4,7 +4,7 @@ type EmailBody = {
   telefone?: string;
 };
 
-export function EmailTemplate(body: EmailBody) { {
+export function EmailTemplate(body: EmailBody) {
     return (
         <div style={{
             fontFamily: "Arial, sans-serif",
