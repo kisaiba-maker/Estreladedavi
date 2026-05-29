@@ -1,4 +1,10 @@
-export function EmailTemplate(body: ContatoTypes) {
+type EmailBody = {
+  nome?: string;
+  email?: string;
+  telefone?: string;
+};
+
+export function EmailTemplate(body: EmailBody) { {
     return (
         <div style={{
             fontFamily: "Arial, sans-serif",
