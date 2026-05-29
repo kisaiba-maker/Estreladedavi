@@ -7,7 +7,7 @@ export async function POST(req: Request) {
     const body = await req.json();
     try {
         const data = await resend.emails.send({
-            from: 'Cem Metalúrgica <noreply@cemmetalurgica.com.br>',
+           from: 'Contato <onboarding@resend.dev>',
             to: ['luizadaocg@gmail.com'],
             subject: 'Cem Metalúrgica - Contato Site',
             react: EmailTemplate(body),
