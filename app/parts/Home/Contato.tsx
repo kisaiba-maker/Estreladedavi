@@ -31,6 +31,8 @@ export default function Contato() {
                                         <div>
                                             <div className="py-1 font-bold uppercase">WHATSAPP:</div>
                                             <div>{ContentLinks.whatsappShow}</div>
+<div className="text-sm text-gray-600">
+<div>{ContentLinks.phoneShow}</div>
                                         </div>
                                     </div>
                                 </a>
