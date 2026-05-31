@@ -25,9 +25,9 @@ const ContentLinks = {
     site: '',
     siteShow: '',
 
-	maps: 'https://maps.app.goo.gl/USjscT28KXBU4uaJA',
-    address1: 'Rua Mirinzal, 321, Campo Grande',
-    address2: 'Rio de Janeiro/RJ - CEP: 23.095-606',
+	maps: 'https://maps.app.goo.gl/FJDxTctccoLxhyFX7',
+    address1: 'Estrada Rio do A, 505, Loja B - Campo Grande',
+    address2: 'Rio de Janeiro/RJ - CEP: 23.080-300',
 
     funcionamento1: 'Segunda à Sexta de 09:00 à 18:00h',
     funcionamento2: 'sábado de 09:00 às 13h exceto feriados.',
