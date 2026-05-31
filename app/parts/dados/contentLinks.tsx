@@ -1,8 +1,8 @@
 const ContentLinks = {
     titleSite: 'imagem',
 
-	email: 'mailto:contato@estreladedaviprotecao.com.br',
-    emailShow: 'contato@estreladedaviprotecao.com.br',
+	email: 'mailto:estreladedavi@hotmail.com',
+    emailShow: 'estreladedavi@hotmail.com',
 
 	phone: 'tel:+552137951000',
     phoneShow: '(21) 3795-1000',
